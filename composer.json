@@ -1,5 +1,5 @@
 {
-	"name": "lambda-solutions/moodle-qtype_essaywiris",
+	"name": "lambda-solutions/qtype_essaywiris",
 	"description": "Wiris question type essay",
         "license": "GPL-3.0",
 	"type": "moodle-qtype",
